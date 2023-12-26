@@ -1,4 +1,5 @@
 class Attributes(calekitten):
+
 	@staticmethod
 	def contact() -> tuple:
 	    discord  = "@calekitten"
